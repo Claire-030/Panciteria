@@ -10,7 +10,10 @@ require ("./components/navbar.php");
         <div class="col-lg-6 mb-4 mb-lg-0 text-center">
          <h5 class="text-uppercase fw-bold text-muted fs-5">From our kitchen to your table: Freshly Made. Every Time.</h5>
          <h1 class="display-3 fw-bold mb-2" style="color: #3c4d55;">Panciteria</h1>
-         <p class="text-muted fs-5"> Skip the fast food. Enjoy real, home-cooked Filipino meals made to order. <Br> 🍲👨‍🍳 </p>
+         <p class="text-muted fs-5"> Authentic Filipino Culinary Experience </p>
+         <p class="text-secondary fs-5 mb-4 lead">
+                Established in 2007 in Marikina, Panciteria is a family-owned Filipino eatery serving freshly cooked, authentic home-cooked meals, specialty pancit, and affordable event catering made to order. 🍲👨‍🍳
+            </p>
         </div>
 
         <div class="col-lg-6 text-center">
