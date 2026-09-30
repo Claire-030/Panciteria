@@ -102,7 +102,7 @@ require ("./components/navbar.php");
             <div class="card product-card h-100 border-0 shadow-sm rounded-4 text-center">
                 <img src="./assets/2.png" class="card-img-top" alt="Dinakdakan">
                 <div class="card-body d-flex align-items-center justify-content-center">
-                    <h5 class="card-title mb-0">Dinakdakan</h5>
+                    <h5 class="card-title mb-0">Dinakdakan - 280 Pesos</h5>
                 </div>
             </div>
         </div>
@@ -111,7 +111,7 @@ require ("./components/navbar.php");
             <div class="card product-card h-100 border-0 shadow-sm rounded-4 text-center">
                 <img src="./assets/3.png" class="card-img-top" alt="Palabok">
                 <div class="card-body d-flex align-items-center justify-content-center">
-                    <h5 class="card-title mb-0">Palabok</h5>
+                    <h5 class="card-title mb-0">Palabok - 250 Pesos</h5>
                 </div>
             </div>
         </div>
@@ -120,7 +120,7 @@ require ("./components/navbar.php");
             <div class="card product-card h-100 border-0 shadow-sm rounded-4 text-center">
                 <img src="./assets/4.png" class="card-img-top" alt="Miki Bihon Lechon">
                 <div class="card-body d-flex align-items-center justify-content-center">
-                    <h5 class="card-title mb-0">Miki Bihon Lechon</h5>
+                    <h5 class="card-title mb-0">Miki Bihon Lechon - 240 Pesos</h5>
                 </div>
             </div>
         </div>
@@ -129,7 +129,7 @@ require ("./components/navbar.php");
             <div class="card product-card h-100 border-0 shadow-sm rounded-4 text-center">
                 <img src="./assets/5.png" class="card-img-top" alt="Canton">
                 <div class="card-body d-flex align-items-center justify-content-center">
-                    <h5 class="card-title mb-0">Canton</h5>
+                    <h5 class="card-title mb-0">Canton - 240 Pesos</h5>
                 </div>
             </div>
         </div>
@@ -155,10 +155,10 @@ require ("./components/navbar.php");
 
         <div class="col-12 col-sm-6 col-lg-4">
             <div class="card about-card h-100 border-0 shadow-sm rounded-4 text-center">
-                <img src="./assets/Menu1.png" class="card-img-top" alt="about">
+                <img src="./assets/Owner.jpg" class="card-img-top" alt="about">
                 <div class="card-body d-flex flex-column align-items-center justify-content-center">
-                    <h5 class="card-title mb-0">Food Menu History</h5>
-                    <p class="card-text text-secondary fs-6 mb-4">Every item on our menu is the result of endless experiments and honest taste tests, perfected over time to bring you the finest comforting, home-cooked Filipino meals.</p>
+                    <h5 class="card-title mb-0">Claire Arcino</h5>
+                    <p class="card-text text-secondary fs-6 mb-4">Developer <Br> Hi! I am Claire Arcino, Web Developer of Panciteria <Br> This project was built to combine modern web technologies with our family's Panciteria business. <Br> My goal was to develop a user-friendly website that customers can navigate and access much faster.</p>
                 </div>
             </div>
         </div>
